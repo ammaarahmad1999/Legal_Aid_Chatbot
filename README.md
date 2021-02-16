@@ -4,4 +4,4 @@
 # https://drive.google.com/file/d/1-9I7PiyH8U_T-jx74S9QMaa6HNyXsJD_/view?usp=sharing
 # If anyone require dataset Link Below
 # https://drive.google.com/drive/folders/1EqrxiNt3LBnoPoOYEDvdpUnH4RbRS_xk?usp=sharing
-# Dataset collection was done from books, blogs, articles, thesis, forums amd Shodganga website
+# Dataset collection was done from books, blogs, articles, thesis, forums and Shodganga website
